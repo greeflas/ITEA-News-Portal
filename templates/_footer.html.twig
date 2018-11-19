@@ -1,6 +1,6 @@
 <footer class="text-muted">
     <div class="container">
-        <form class="form-inline float-right" action="{{ path('newsletter_subscribe') }}" method="post">
+        <form id="js-newsletter-form" class="form-inline float-right" action="{{ path('xhr_newsletter_subscribe') }}" method="post">
             <div class="form-group">
                 <input type="text" name="email" class="form-control" placeholder="E-mail">
             </div>

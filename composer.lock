@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "48220f60afa0840ad00dc70019ac72ab",
+    "content-hash": "cbe61dbe3ae75b326c75b56244f41978",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -1385,16 +1385,16 @@
         },
         {
             "name": "greeflas/newsletter-bundle",
-            "version": "v0.1.0",
+            "version": "v0.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/greeflas/GreeflasNewsletterBundle.git",
-                "reference": "cac83ea22f758885e968040eeb25f2473e7c3261"
+                "reference": "157dcd0806d7fc09bba33acc1b08c6c38ee30089"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/greeflas/GreeflasNewsletterBundle/zipball/cac83ea22f758885e968040eeb25f2473e7c3261",
-                "reference": "cac83ea22f758885e968040eeb25f2473e7c3261",
+                "url": "https://api.github.com/repos/greeflas/GreeflasNewsletterBundle/zipball/157dcd0806d7fc09bba33acc1b08c6c38ee30089",
+                "reference": "157dcd0806d7fc09bba33acc1b08c6c38ee30089",
                 "shasum": ""
             },
             "require": {
@@ -1420,7 +1420,7 @@
                     "email": "vldmr.kuprienko@gmail.com"
                 }
             ],
-            "time": "2018-11-15T18:56:32+00:00"
+            "time": "2018-11-15T19:50:33+00:00"
         },
         {
             "name": "jdorn/sql-formatter",
